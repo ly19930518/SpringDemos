@@ -1,0 +1,9 @@
+server:
+  port: 61001 #表示设置该服务注册中心的端口号
+spring:
+  application:
+    name: spring-test-service
+eureka:
+  client:
+    service-url:
+      defaultZone: http://66.112.209.113:60001/eureka
