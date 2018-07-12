@@ -57,7 +57,13 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
+
+            <dependency>
+                <groupId>SpringDemos</groupId>
+                <artifactId>mq</artifactId>
+            </dependency>
         </dependencies>
+
     </dependencyManagement>
 
     <build>

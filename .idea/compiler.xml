@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Consumers" />
         <module name="RegisterCenter" />
-        <module name="SpringDemos" />
         <module name="TestServices" />
       </profile>
     </annotationProcessing>
